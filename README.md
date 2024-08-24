@@ -1,4 +1,13 @@
-Laravel Backend
+# Project Name: FlagtickGroup
+
+## Overview
+
+Brief project modules.
+
+## Project Structure
+
+### Laravel Backend
+```plaintext
 ├── app
 │   ├── Http
 │   │   └── Controllers
@@ -12,7 +21,7 @@ Laravel Backend
 │           ├── RoleRepository.php
 │           └── EloquentRole.php
 
-Vue Frontend
+### Vue Frontend
 ├── resources
 │   └── assets
 │       └── js
